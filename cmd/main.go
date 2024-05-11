@@ -1,3 +1,5 @@
+// File path: cmd/main.go
+
 package main
 
 import (

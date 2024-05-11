@@ -1,3 +1,5 @@
+// File path: pkg/graph/edge.go
+
 package graph
 
 type Edge struct {

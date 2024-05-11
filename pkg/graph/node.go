@@ -1,3 +1,5 @@
+// File path: pkg/graph/node.go
+
 package graph
 
 type Node struct {
