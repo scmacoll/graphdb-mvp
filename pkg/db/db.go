@@ -1,4 +1,4 @@
-// File path: pkg/db/db.go
+// pkg/db/db.go
 
 package db
 
